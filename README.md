@@ -55,7 +55,9 @@ test_autos.py
     2.串行执行：按顺序执行测试用例，每个测试用例执行完后等待指定的时间，调用 run_test_case 函数。
   8.执行钩子脚本的 after_all 函数，调用 run_hook 函数。
   9.输出测试结果，包括通过的测试用例数量和失败的测试用例数量。
+  
 四、架构逻辑图
+
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/78fcd7a8-0510-4d37-afc4-ffd8d5d7a1fc" />
 
 
