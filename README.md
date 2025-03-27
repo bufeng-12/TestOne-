@@ -62,3 +62,9 @@ test_autos.py
 
 
 这个架构逻辑图展示了整个测试框架的执行流程，从启动 autos.py 脚本开始，经过读取配置文件、执行钩子脚本、解析测试用例和测试床文件，根据执行模式执行测试用例，最后输出测试结果。
+
+五、使用方法
+python autos.py -tc testcase.xml -tb testbed.xml -ts testset.xml 
+
+![image](https://github.com/user-attachments/assets/f1e4a3bc-656a-4e4f-b376-f7a981d253c7)
+
