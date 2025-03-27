@@ -1,0 +1,1 @@
+python autos.py -tc testcase.xml -tb testbed.xml -ts testset.xml

@@ -1,0 +1,8 @@
+<testset>
+    <log_path>D:/log/test.log</log_path>
+    <hook_script_path>hook.py</hook_script_path>
+    <hook_params>
+        <param name="param1">value1</param>
+    </hook_params>
+    <testcase_file>testcase.xml</testcase_file>
+</testset>    

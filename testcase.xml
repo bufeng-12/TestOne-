@@ -1,0 +1,17 @@
+<testcases>
+    <execution_mode>parallel</execution_mode>
+    <parallel_count>2</parallel_count>
+    <testcase>
+        <script_path>testcase1.py</script_path>
+        <params>
+            <param name="para_a">10</param>
+        </params>
+    </testcase>
+    <testcase>
+        <script_path>testcase2.py</script_path>
+        <params>
+            <param name="para_b">20</param>
+        </params>
+    </testcase>
+</testcases>
+    

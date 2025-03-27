@@ -1,0 +1,15 @@
+<testbed>
+    <device type="server">
+        <ip>192.168.1.101</ip>
+        <protocol>ssh</protocol>
+        <username>admin</username>
+        <password>password</password>
+    </device>
+    <device type="storage">
+        <ip>192.168.1.100</ip>
+        <protocol>ssh</protocol>
+        <username>admin</username>
+        <password>password</password>
+    </device>
+</testbed>
+    
