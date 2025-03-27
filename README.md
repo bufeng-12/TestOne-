@@ -68,3 +68,7 @@ python autos.py -tc testcase.xml -tb testbed.xml -ts testset.xml
 
 ![image](https://github.com/user-attachments/assets/f1e4a3bc-656a-4e4f-b376-f7a981d253c7)
 
+详细日志也会有记录
+
+![image](https://github.com/user-attachments/assets/ba7902f8-1266-47b4-99b7-8a222f9bc9a2)
+
